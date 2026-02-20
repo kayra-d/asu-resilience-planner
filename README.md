@@ -1,13 +1,19 @@
-# ASU Admission & Scholarship Analyzer
+# 🧠 Resilience Study Planner
+### Personal Academic Transformation Model for ASU Portfolio
 
-This is my first Python project developed for my portfolio at **Arizona State University (ASU)**. 
+This software is a data-driven representation of my academic turnaround. It models how I transitioned from a **53% performance baseline to a 90% peak performance index** by quantifying and managing environmental variables.
 
-### 🚀 Purpose
-The script analyzes a student's profile (GPA, SAT, and coding projects) to estimate admission chances and potential scholarship amounts at ASU.
+## 🎯 Project Purpose
+As an aspiring engineer at ASU, I developed this tool to solve a personal challenge: **Academic Inconsistency.** The app allows users to:
+* **Log Performance:** Input study hours and focus intensity.
+* **Track Distractions:** Monitor the impact of environmental factors (Social Media, Stress, etc.).
+* **Visualize Growth:** Generate a "Resilience Growth Curve" using real-time data visualization.
 
-### 🛠️ Technical Skills
-* **Language:** Python
-* **Concepts:** Conditional logic (if/elif/else), user input handling, and dynamic data formatting.
+## 🛠️ Technical Implementation (The "How")
+I engineered this solution using a modern Python stack:
+* **Framework:** `Streamlit` for rapid web deployment and UI/UX design.
+* **Data Engine:** `Pandas` for managing study logs and performance metrics.
+* **Visualization:** `Plotly` for interactive, dynamic graphing of the growth curve.
 
-### 📈 Future Plans
-I plan to integrate this with a live API to track current exchange rates for tuition calculations.
+## 📊 The "Kayra Transformation" Logic
+The core of this app is a custom algorithm that calculates a **Resilience Score** based on focus intensity vs. total distractions. This logic proves that my 1500 SAT potential was reclaimed through disciplined, data-backed tracking.
